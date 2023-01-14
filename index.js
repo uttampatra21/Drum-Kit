@@ -22,10 +22,10 @@ for(var i = 0; i <button; i++){
 
 //Keypress 
 
-document.addEventListener("keypress", function(event) {
-    makeSound(event, key);
-    animation(event, key);
-});
+// document.addEventListener("keypress", function(event) {
+//     makeSound(event, key);
+//     animation(event, key);
+// });
 
 // sound
 
